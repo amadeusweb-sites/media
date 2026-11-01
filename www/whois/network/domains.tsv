@@ -1,0 +1,11 @@
+|is-table
+||cloneAt: 
+||renderWith: repos.php
+||Description: CM Flx Domains
+||Primary Keyword: Flx
+||Keywords: Flx Domains
+#at	from
+
+media/india	https://github.com/cmflx/india.git
+
+media/www	https://github.com/amadeusweb-sites/media.git
